@@ -12,6 +12,8 @@ Modular Telegram Bot for managing your group with additional features.
 Can be found as [Lucifer](https://t.me/Lucifer_ProBot).
 
 The following env variables are supported:
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/piku-adhi/LuciferProBot)
+<p align="center">
 
 For questions regarding creating your own bot, please head to [support group](https://t.me/LuciferProBotSupport) where you'll find a
 group of volunteers to help. We'll also help when a database schema changes, and some table column needs to be
